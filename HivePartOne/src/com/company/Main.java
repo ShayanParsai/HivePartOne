@@ -9,7 +9,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String topic = "temperature-topic/1";
+        String topic = "JoshShJe/temp";
         int qos = 2;
         String broker = "tcp://broker.hivemq.com:1883";
         String clientId = "clientId-SPS";
